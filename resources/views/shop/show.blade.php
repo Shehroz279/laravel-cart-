@@ -31,7 +31,7 @@
                 role="button" 
                 href="/addToCart/{{$product->id}}"
                 aria-pressed="true">
-                Add To Cart
+                Add To my Cart
             </a>
         </div>
 @endsection
